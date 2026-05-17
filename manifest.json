@@ -16,6 +16,20 @@
       "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/fancymenu_fabric_3.9.1_MC_1.21.1.jar",
       "md5": "67682ec9f8a9b6412e9c9d92d377271e",
       "required": true
+    },
+    {
+      "name": "konkrete_fabric_1.9.9_MC_1.21",
+      "filename": "konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "md5": "287ee9cfc6015f706672fd8c20f5ef9c",
+      "required": true
+    },
+    {
+      "name": "melody_fabric_1.0.10_MC_1.21",
+      "filename": "melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "md5": "0f1bfbf2dd4fa047a1616fc448f3b856",
+      "required": true
     }
   ]
 }
