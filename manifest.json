@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "minecraft": "1.21.1",
+  "fabric": "0.16.5",
+  "mods": [
+    {
+      "name": "fancymenu_fabric_3.9.1_MC_1.21.1",
+      "filename": "fancymenu_fabric_3.9.1_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/fancymenu_fabric_3.9.1_MC_1.21.1.jar",
+      "md5": "67682ec9f8a9b6412e9c9d92d377271e",
+      "required": true
+    }
+  ]
+}
