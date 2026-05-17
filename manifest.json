@@ -25,6 +25,13 @@
       "required": true
     },
     {
+      "name": "geckolib-fabric-1.21.1-4.8.4",
+      "filename": "geckolib-fabric-1.21.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/geckolib-fabric-1.21.1-4.8.4.jar",
+      "md5": "0044e7b8b4d4096257031692f5995a2c",
+      "required": true
+    },
+    {
       "name": "konkrete_fabric_1.9.9_MC_1.21",
       "filename": "konkrete_fabric_1.9.9_MC_1.21.jar",
       "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
@@ -36,6 +43,13 @@
       "filename": "melody_fabric_1.0.10_MC_1.21.jar",
       "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
       "md5": "0f1bfbf2dd4fa047a1616fc448f3b856",
+      "required": true
+    },
+    {
+      "name": "PlayerAnimationLibFabric-1.1.4+mc.1.21.1",
+      "filename": "PlayerAnimationLibFabric-1.1.4+mc.1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/PlayerAnimationLibFabric-1.1.4+mc.1.21.1.jar",
+      "md5": "741430d7191c7b09fa2dac0d6c39c57e",
       "required": true
     }
   ]
