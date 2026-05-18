@@ -1,62 +1,20 @@
 {
   "version": "1.0.0",
-  "minecraft": "1.21.1",
-  "fabric": "0.16.5",
+  "minecraft": "1.7.10",
+  "forge": "10.13.4.1614",
   "mods": [
     {
-      "name": "aaa_particles-fabric-1.21.1-2.2.0",
-      "filename": "aaa_particles-fabric-1.21.1-2.2.0.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/aaa_particles-fabric-1.21.1-2.2.0.jar",
-      "md5": "dedd87035a3cb6f1fc7fa7d06a834832",
-      "required": true
-    },    
-    {
-      "name": "dannys-aot-2.0.0",
-      "filename": "dannys-aot-2.0.0.jar",
-      "url": "https://github.com/ZiokTV/snk-mods/releases/download/snk/dannys-aot-2.0.0.jar",
-      "md5": "3b3ccc2e7d976e5f81eb6faac454011d",
+      "name": "CustomThings-MC1.7.10-0.0.3-55",
+      "filename": "CustomThings-MC1.7.10-0.0.3-55.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/CustomThings-MC1.7.10-0.0.3-55.jar",
+      "md5": "87fe5ade98944a8deec9fee5f964b5d4",
       "required": true
     },
     {
-      "name": "fabric-api-0.116.12+1.21.1",
-      "filename": "fabric-api-0.116.12+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/fabric-api-0.116.12+1.21.1.jar",
-      "md5": "f85c049c10c2240f89abe287ba0882d4",
-      "required": true
-    },
-    {
-      "name": "fancymenu_fabric_3.9.1_MC_1.21.1",
-      "filename": "fancymenu_fabric_3.9.1_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/fancymenu_fabric_3.9.1_MC_1.21.1.jar",
-      "md5": "67682ec9f8a9b6412e9c9d92d377271e",
-      "required": true
-    },
-    {
-      "name": "geckolib-fabric-1.21.1-4.8.4",
-      "filename": "geckolib-fabric-1.21.1-4.8.4.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/geckolib-fabric-1.21.1-4.8.4.jar",
-      "md5": "0044e7b8b4d4096257031692f5995a2c",
-      "required": true
-    },
-    {
-      "name": "konkrete_fabric_1.9.9_MC_1.21",
-      "filename": "konkrete_fabric_1.9.9_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
-      "md5": "287ee9cfc6015f706672fd8c20f5ef9c",
-      "required": true
-    },
-    {
-      "name": "melody_fabric_1.0.10_MC_1.21",
-      "filename": "melody_fabric_1.0.10_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
-      "md5": "0f1bfbf2dd4fa047a1616fc448f3b856",
-      "required": true
-    },
-    {
-      "name": "PlayerAnimationLibFabric-1.1.4+mc.1.21.1",
-      "filename": "PlayerAnimationLibFabric-1.1.4+mc.1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/PlayerAnimationLibFabric-1.1.4+mc.1.21.1.jar",
-      "md5": "741430d7191c7b09fa2dac0d6c39c57e",
+      "name": "EnderCore-1.7.10-0.2.0.40_beta",
+      "filename": "EnderCore-1.7.10-0.2.0.40_beta.jar",
+      "url": "https://raw.githubusercontent.com/ZiokTV/snk-mods/main/mods/EnderCore-1.7.10-0.2.0.40_beta.jar",
+      "md5": "d6dc6adf6bd6652ef0a42f6326fdeb51",
       "required": true
     }
   ]
